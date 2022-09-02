@@ -98,7 +98,7 @@ img {
     line-height: 1.14;
     letter-spacing: 0.02em;
 }
-.contacts .contact-link:hover, .contact-link:focus {
+.contacts .contact-link:hover, .contacts .contact-link:focus {
     color: var(--accent-color);
 }
 .icon-contact {
